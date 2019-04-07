@@ -1,0 +1,19 @@
+
+/*
+usage based insurance (vehicle insurance)
+
+PAYD: pay as you drive; pay how you drive (PHYD) and mile-based auto insurance
+whereby the costs are dependent upon type of vehicle used, 
+measured against time, distance, behavior and place.
+
+on-board telematic device that connects to the OBD-II
+and transmits speed, time of day and number of miles the car is driven. 
+
+Pure dApp Simple Implementation:
+------------------------------------------
+1. Issuer Offers PAYD Option
+2. Driver Acept Offer
+3. Issuer Issue Reward Points
+4. Driver View Rewards
+
+*/
